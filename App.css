@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
   color: white;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
